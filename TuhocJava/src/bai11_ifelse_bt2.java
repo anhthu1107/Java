@@ -1,3 +1,12 @@
+/*Bài tập java 05: Viết chương trình nhập vào chiều cao, cân nặng, tính BMI và xuất ra thông báo
+        BMI<15: Thân hình quá gầy
+        BMI>=15 and BMI<16: Thân hình gầy
+        BMI>=16 and BMI<18.5: Thân hình hơi gầy
+        BMI>=18.5 and BMI<25: Thân hình bình thường
+        BMI>=25 and BMI < 30: Thân hình hơi béo
+        BMI >=30 and BMI<35: Thân hình béo
+        BMI >=35: Thân hình quá béo
+        Gợi ý cách tính : BMI=canNang/(chieu Cao ^2)*/
 import java.util.Scanner;
 
 public class bai11_ifelse_bt2 {

@@ -1,3 +1,8 @@
+/*Bài tập java 04: Tìm x, y khi biết tổng và hiệu của chúng
+        case test : Tong = 14 ,hieu = 4 => x=9, y = 5
+        case 2 : Tong = 8 hieu = 5 => x=6.5, y = 1.5
+        Gợi ý: x+ y= 14
+        x - y = 4*/
 import java.util.Scanner;
 
 public class bai11_ifelse_bt1 {
