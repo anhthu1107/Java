@@ -28,7 +28,7 @@ public class bai11_ifelse_bt5 {
         else if (delta==0){
             double x= -b/(2*a);
             System.out.println("pt có nghiệm kép x1 = x2 =" +x);
-        }
+        } //từ 2 dòng trở lên phải có khối ngoặc nhọn để đóng mở
         else {
             double x1 = (-b+Math.sqrt(delta))/(2*a); //Math.sqrt là căn
             double x2 = (-b-Math.sqrt(delta))/(2*a);
